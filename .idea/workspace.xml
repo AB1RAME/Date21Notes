@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1f9c987-0e8d-4478-9ed4-e7ef12036479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/intro_to_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/working_with_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_json_file.json" beforeDir="false" afterPath="$PROJECT_DIR$/new_json_file.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
       <recent name="C:\Users\conta\Documents\Date21Notes\venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jupyter">
+  <component name="RunManager" selected="Python.sqlinpython">
     <configuration name="intro_to_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jupyter" />
         <item itemvalue="Python.sqlinpython" />
+        <item itemvalue="Python.jupyter" />
         <item itemvalue="Python.palindrome" />
         <item itemvalue="Python.intro_to_request" />
         <item itemvalue="Python.working_with_json" />
